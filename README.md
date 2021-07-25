@@ -1,5 +1,5 @@
-# Hi
+# making a conflit
 
-# Hello
 
-# new branch changes
+# hi master
+
