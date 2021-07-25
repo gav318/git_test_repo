@@ -1,5 +1,2 @@
-# Hello
+# making a conflit
 
-Changed something...
-
-...finished!
